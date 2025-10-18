@@ -1,8 +1,8 @@
 {
   "success": true,
   "code": "blackfn.success",
-  "version-prod": "1.0.0",
-  "version-dev": "1.0.0",
+  "version-prod": "1.0.0-stable",
+  "version-dev": "1.0.0-dev",
   "url-prod": "assets-launcher.blackfn.ghost143.de/content-prod.zip",
   "url-dev": "assets-launcher.blackfn.ghost143.de/content-dev.zip" 
 }
