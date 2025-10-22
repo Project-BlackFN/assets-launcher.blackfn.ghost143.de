@@ -7,66 +7,167 @@
       "filename": "pakchunk0-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s1-WindowsClient.pak"
+      "filename": "pakchunk1-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s1-WindowsClient.sig"
+      "filename": "pakchunk1-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s2-WindowsClient.pak"
+      "filename": "pakchunk10-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s2-WindowsClient.sig"
+      "filename": "pakchunk10-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s3-WindowsClient.pak"
+      "filename": "pakchunk1000-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s3-WindowsClient.sig"
+      "filename": "pakchunk1000-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s4-WindowsClient.pak"
+      "filename": "pakchunk1001-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s4-WindowsClient.sig"
+      "filename": "pakchunk1001-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s5-WindowsClient.pak"
+      "filename": "pakchunk1002-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s5-WindowsClient.sig"
+      "filename": "pakchunk1002-WindowsClient.sig"
     },
     {
-      "file": "pakchunk1-WindowsClient.pak"
+      "filename": "pakchunk1003-WindowsClient.pak"
     },
     {
-      "file": "pakchunk1-WindowsClient.sig"
+      "filename": "pakchunk1003-WindowsClient.sig"
     },
     {
-      "file": "pakchunk1_s1-WindowsClient.pak"
+      "filename": "pakchunk1004-WindowsClient.pak"
     },
     {
-      "file": "pakchunk1_s1-WindowsClient.sig"
+      "filename": "pakchunk1004-WindowsClient.sig"
     },
     {
-      "file": "pakchunk1000-WindowsClient.pak"
+      "filename": "pakchunk1005-WindowsClient.pak"
     },
     {
-      "file": "pakchunk1000-WindowsClient.sig"
+      "filename": "pakchunk1005-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk1006-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk1006-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk1007-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk1007-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s1-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s1-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s10-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s10-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s2-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s2-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s3-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s3-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s4-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s4-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s5-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s5-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s6-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s6-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s7-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s7-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s8-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s8-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk10_s9-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk10_s9-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk11-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk11-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk11_s1-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk11_s1-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk2-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk2-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk5-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk5-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk7-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk7-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk8-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk8-WindowsClient.sig"
+    },
+    {
+      "filename": "pakchunk9-WindowsClient.pak"
+    },
+    {
+      "filename": "pakchunk9-WindowsClient.sig"
     }
   ],
-  "optional": [
-    {
-      "file": "pakchunkEra541-WindowsClient.pak"
-    },
-    {
-      "file": "pakchunkEra541-WindowsClient.sig"
-    },
-    {
-      "file": "pakchunkLoginFix-WindowsClient.pak"
-    },
-    {
-      "file": "pakchunkLoginFix-WindowsClient.sig"
-    }
-  ]
+  "optional": []
 }
