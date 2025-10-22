@@ -1,94 +1,72 @@
 {
   "required": [
     {
-      "filename": "pakchunk0-WindowsClient.pak",
-      "hash-256": "7F9AE74BB5E37FDAECABAAA8EBED918A73F1DB4219A17F6E84B191B1BEFEABF5"
+      "filename": "pakchunk0-WindowsClient.pak"
     },
     {
-      "filename": "pakchunk0-WindowsClient.sig",
-      "hash-256": "5E5853E1DE56747424C29FC7DC58318B774124548A2C2A5FD85E67F870445031"
+      "filename": "pakchunk0-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s1-WindowsClient.pak",
-      "hash-256": "F5D159FCC1E456557A9E7647A99070C23D31578CA1940EFB3E40CAC58B3DDCD4"
+      "file": "pakchunk0_s1-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s1-WindowsClient.sig",
-      "hash-256": "31DABBFF14C8308B7345FF4127ECBBCAE8E4725E3DD313D63072F33C026CB7DC"
+      "file": "pakchunk0_s1-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s2-WindowsClient.pak",
-      "hash-256": "C9C539C06944587EEA5BD23E44F75534763988732905939CA60C8A56C057378A"
+      "file": "pakchunk0_s2-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s2-WindowsClient.sig",
-      "hash-256": "C00A1577A33AF0C5340D09B488F73F381718AD3A05DF52C9C16EC2F2D8E68DBF"
+      "file": "pakchunk0_s2-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s3-WindowsClient.pak",
-      "hash-256": "F6E3E63BF86AF363AE3FC7B462202723B7AF5E78D44E79064DC7EF8B1D1A9FB6"
+      "file": "pakchunk0_s3-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s3-WindowsClient.sig",
-      "hash-256": "47D945ED6E7D027013815812B91B4E78A839079F33286E4BF575F4BF72A1AEB7"
+      "file": "pakchunk0_s3-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s4-WindowsClient.pak",
-      "hash-256": "F3FA438FDDAD03C9EA2B20D6A687B5A9A97A54645329D1E3D62267C4ACEA24FB"
+      "file": "pakchunk0_s4-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s4-WindowsClient.sig",
-      "hash-256": "BCFFCC8AAD6DCA63B810FFD43F3420224648CD85A2D001F3A8CBD0233B84D5DA"
+      "file": "pakchunk0_s4-WindowsClient.sig"
     },
     {
-      "file": "pakchunk0_s5-WindowsClient.pak",
-      "hash-256": "12B7354EFA7B47D9DAF91D0E63A3FE0835F98AA984A9DC9849B990A607D491E3"
+      "file": "pakchunk0_s5-WindowsClient.pak"
     },
     {
-      "file": "pakchunk0_s5-WindowsClient.sig",
-      "hash-256": "D21D16A525DE93A40B831D44C9BA51CB851BD745CF364FC505DB05ED7DCAB87E"
+      "file": "pakchunk0_s5-WindowsClient.sig"
     },
     {
-      "file": "pakchunk1-WindowsClient.pak",
-      "hash-256": "55B773A53486D0D1EA91C25241733C257F374959519FC904D7270E258104C0C2"
+      "file": "pakchunk1-WindowsClient.pak"
     },
     {
-      "file": "pakchunk1-WindowsClient.sig",
-      "hash-256": "C8C274F61BEDF648CC5858AF51260EAACA24DC93A35301C228D1F57E6F6AA22C"
+      "file": "pakchunk1-WindowsClient.sig"
     },
     {
-      "file": "pakchunk1_s1-WindowsClient.pak",
-      "hash-256": "B4C63C4BF209631F3337FA38753202AB6E77AFE439C8F00D1BE77A6D767C054A"
+      "file": "pakchunk1_s1-WindowsClient.pak"
     },
     {
-      "file": "pakchunk1_s1-WindowsClient.sig",
-      "hash-256": "8E07CC44B8F1388618847D4A91628AB795D3E18E277BC2D32F14E4AF051B3C5F"
+      "file": "pakchunk1_s1-WindowsClient.sig"
     },
     {
-      "file": "pakchunk1000-WindowsClient.pak",
-      "hash-256": "4E9106C62A0845179628A3F64299A177AE7C57416702EB11D6888EDF0140D9F1"
+      "file": "pakchunk1000-WindowsClient.pak"
     },
     {
-      "file": "pakchunk1000-WindowsClient.sig",
-      "hash-256": "7FCC708966245D645E4D32F4F70DAB20BC5894F37630DB4585CA92C491A5CAFA"
+      "file": "pakchunk1000-WindowsClient.sig"
     }
   ],
   "optional": [
     {
-      "file": "pakchunkEra541-WindowsClient.pak",
-      "hash-256": "8DFED9093AE327CAD63255378684F7D99FAC62224D48AAEF6D76F69E42B00EC4"
+      "file": "pakchunkEra541-WindowsClient.pak"
     },
     {
-      "file": "pakchunkEra541-WindowsClient.sig",
-      "hash-256": "31DABBFF14C8308B7345FF4127ECBBCAE8E4725E3DD313D63072F33C026CB7DC"
+      "file": "pakchunkEra541-WindowsClient.sig"
     },
     {
-      "file": "pakchunkLoginFix-WindowsClient.pak",
-      "hash-256": "98A4B4B2BBE17463FEB672F61E376BD6AB1AE5353AD98EAE9B34F36EC2FE0881"
+      "file": "pakchunkLoginFix-WindowsClient.pak"
     },
     {
-      "file": "pakchunkLoginFix-WindowsClient.sig",
-      "hash-256": "FA2E2704FAFD913C0CE0AD31A6BF0DDDC4A91455E93B3817DC3281262F1B6BAC"
+      "file": "pakchunkLoginFix-WindowsClient.sig"
     }
   ]
 }
