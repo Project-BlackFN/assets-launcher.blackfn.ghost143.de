@@ -35,12 +35,6 @@
     },
     {
       "filename": "pakchunk1-WindowsClient.sig"
-    },
-    {
-      "filename": "pakchunkLoginFix-WindowsClient.pak"
-    },
-    {
-      "filename": "pakchunkLoginFix-WindowsClient.sig"
     }
   ],
   "optional": []
